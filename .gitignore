@@ -1,0 +1,25 @@
+.DS_Store
+*~
+*.swp
+*.rbc
+
+/node_modules
+/build/*
+
+# artifacts
+.DS_Store
+.svn
+*~
+*.swp
+*.rbc
+
+# sublime config
+*.sublime-project
+*.sublime-workspace
+
+# atom config
+.tern-project
+
+# logs
+npm-debug.log
+newrelic_agent.log

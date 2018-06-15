@@ -1,0 +1,25 @@
+{
+  "name": "mDNS",
+  "version": "1.0.0",
+  "description": "Domain Name System in ES6",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules server.mjs"
+  },
+  "keywords": [
+    "dns",
+    "DNS"
+  ],
+  "author": "Justin Beaudry <beaudry.justin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "0.x.x"
+  },
+  "dependencies": {
+    "enjoi-browser": "^1.1.0",
+    "joi": "^13.4.0",
+    "joi-browser": "^13.0.1",
+    "metamon": "^1.1.2"
+  }
+}
