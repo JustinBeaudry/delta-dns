@@ -13,7 +13,7 @@ Probably not.
 
 ## Installation
 
-`npm i -g ∆dns`
+`npm i -g delta-dns`
 
 ## How DNS Works
 
