@@ -1,5 +1,5 @@
 {
-  "name": "∆DNS",
+  "name": "delta-DNS",
   "version": "0.0.1",
   "description": "Recursive Resolver Domain Name System in Node.js",
   "main": "server.mjs",
